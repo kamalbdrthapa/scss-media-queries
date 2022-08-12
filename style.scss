@@ -24,8 +24,8 @@ height: 100vh;
 
 // from x-axis and y-axis centralizing content
 // display: flex;
-// justify-content: center; // it centralized the content on x-axis
-// align-items: center; // it centralized the content on y-axis
+// justify-content: center; // set horizontal alignment/spacing if flex-direction is row
+// align-items: center; // set vertical alignment if flex-direction is row 
 
 // alternative method: from x-axis and y-axis centralizing content
 display: grid;
